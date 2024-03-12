@@ -1,6 +1,6 @@
 English | [简体中文](README_zh.md)
 
-# chatglm3.openvino Demo
+# OpenVINO workshop contents
 
 This repository is prepared for OpenVINO worshop.
 
