@@ -1,5 +1,3 @@
-English | [简体中文](README_zh.md)
-
 # OpenVINO workshop contents
 
 This repository is prepared for OpenVINO worshop.
