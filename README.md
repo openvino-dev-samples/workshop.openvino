@@ -25,11 +25,11 @@ pip install -r requirements.txt
 Windows Powershell
 
 ```
-python3 -m venv openvino_env
+python -m venv openvino_env
 
 .\openvino_env\Scripts\activate
 
-python3 -m pip install --upgrade pip
+python -m pip install --upgrade pip
 
 pip install wheel setuptools
 
