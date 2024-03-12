@@ -94,6 +94,9 @@ if TYPE_CHECKING:
 register_normalized_configs()
 register_bettertransformer_config()
 
+import io
+import sys
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='gb18030')
 
 def compress_torchmodels(
     models_and_onnx_configs,
