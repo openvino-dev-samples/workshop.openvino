@@ -1,4 +1,4 @@
-# Lab3: Create a chatbot with OpenVINO
+# OpenVINO workshop
 
 This repository is prepared for OpenVINO worshop.
 
