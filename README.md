@@ -1,6 +1,4 @@
-English | [简体中文](README_zh.md)
-
-# chatglm3.openvino Demo
+# Lab3: Create a chatbot with OpenVINO
 
 This repository is prepared for OpenVINO worshop.
 
